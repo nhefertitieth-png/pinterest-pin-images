@@ -5,9 +5,13 @@ Alojadas para bulk upload (URLs directas vía `raw.githubusercontent.com`).
 
 ## Carpetas
 
-- **`pins/`** — 67 pines de las freebies (*Free Illustrations for Commercial Use*). Los lotes nuevos van en subcarpetas por mes, p.ej. `pins/septiembre-2026/` (17 pines del pack de ilustraciones de Navidad).
-- **`postales/`** — 124 pines de las postales ilustradas. Los lotes nuevos van en subcarpetas por mes, p.ej. `postales/septiembre-2026/` (24 pines de la colección Xmas wholesale: oso/churros/coquette/regalos/jengibre/santa, códigos `3A`–`3F`).
-- **`paletas/`** — pines para el board de paletas de color (mockups con tira de 5 swatches), organizados igual por subcarpeta de mes — `paletas/septiembre-2026/` (26 pines).
+- **`pins/`** — 50 pines de las freebies (*Free Illustrations for Commercial Use*).
+- **`postales/`** — 100 pines de las postales ilustradas.
+- **`<mes>-<año>/`** (p.ej. `septiembre-2026/`) — lotes mensuales de pines nuevos, todos juntos en una sola carpeta sin separar por board; el board/tipo va en el propio nombre del archivo:
+  - `Freebie-PinN.png` — pines para el board de freebies
+  - `Postal-<código>.png` — pines para el board de postales wholesale (p.ej. `Postal-3A-Oso-navidad-V1.png`)
+  - `PaletaN.png` — pines para el board de paletas de color
+  - `septiembre-2026/` tiene 67: 17 Freebie + 24 Postal (colección Xmas: oso/churros/coquette/regalos/jengibre/santa) + 26 Paleta.
 
 ## URL base
 
