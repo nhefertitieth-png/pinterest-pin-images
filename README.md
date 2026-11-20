@@ -11,7 +11,9 @@ Alojadas para bulk upload (URLs directas vía `raw.githubusercontent.com`).
   - `Freebie-PinN.png` — pines para el board de freebies
   - `Postal-<código>.png` — pines para el board de postales wholesale (p.ej. `Postal-3A-Oso-navidad-V1.png`)
   - `PaletaN.png` — pines para el board de paletas de color
+  - `CarrierPigeonN.jpg` — pines para el board de Carrier Pigeons
   - `septiembre-2026/` tiene 67: 17 Freebie + 24 Postal (colección Xmas: oso/churros/coquette/regalos/jengibre/santa) + 26 Paleta.
+  - `noviembre-2026/` tiene 30 CarrierPigeon (las palomas de octubre, 1–30).
 
 ## URL base
 
